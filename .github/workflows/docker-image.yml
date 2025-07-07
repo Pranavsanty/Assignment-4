@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/todo-app:latest
+        tags: pranavsanty/todo-app:latest
