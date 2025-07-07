@@ -1,5 +1,6 @@
 import os
 
+
 TODO_FILE = "todo.txt"
 
 def load_tasks():
